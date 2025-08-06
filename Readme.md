@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debe utilizar:
 
 ``npm instalar react``
+
+Una nueva actualización  en la web 
